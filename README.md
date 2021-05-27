@@ -1,4 +1,4 @@
-# HackerEarth_CarnivalWars_Rank_30
+# HackerEarth_Carnival_Wars_Rank_30
 
 In this HackerEarth competition , we have to predict the selling price of the product based on certain given features like Minimum Price , maximum price , Charges , discount , demand of the product .Apart from this Product category and market category is also given as feature column.
 
